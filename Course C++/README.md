@@ -1,0 +1,1 @@
+I stopped learning C++ for a while.
