@@ -1,0 +1,8 @@
+body{
+    font: normal 16pt Arial;
+    background-color:rgba(158, 74, 74, 0.836);
+}
+input{
+    height: 27px;
+    width: 75px;
+}
