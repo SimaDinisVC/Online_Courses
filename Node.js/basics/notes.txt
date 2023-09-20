@@ -1,0 +1,8 @@
+to iniciate a npm project:
+    npm init
+    npm init -y (for default settings)
+
+to install a module:                                                                                                   
+    npm install (alias i) (-g (to install it globaly (can be used into all our projects))) module-name (-D (to DevModules))
+
+    
